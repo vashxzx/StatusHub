@@ -6,6 +6,12 @@ StatusHub——监控中心，目前对数据库性能做实时监控。
   - 数据传输：待补充
   - 可视化展示：待补充
 
+# current developer
+
+gmj 
+xzx 
+lb
+
 ### Version
 Debug版本：0.0.1
 
