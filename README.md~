@@ -64,6 +64,19 @@ json {字段A：意义，字段B：意义，，，，，，，，}
 - 计划：？
 
 ---
+# 目录结构
+```
+--databaseplugins：数据库插件（纯C）
+    |--postgresql：pg内核数据采集模块
+    |--mysql：mysql内核数据采集模块
+  datacollector：底层数据采集发送（纯Python）
+    |--pycollector：pg数据库数据采集发送模块
+  web：前端
+    |--nodejsproj：（暂定nodejs实现）
+```
+
+---
+
 # 迭代
 ##### 第一轮迭代(20160619-?)：
 
@@ -72,6 +85,7 @@ json {字段A：意义，字段B：意义，，，，，，，，}
 数据传输：待补充
 
 可视化展示：待补充
+
 
 
 
